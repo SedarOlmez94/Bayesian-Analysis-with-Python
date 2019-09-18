@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a79d0fc26d37436c98cdfb27030ad949)](https://www.codacy.com/manual/SedarOlmez94/Bayesian-Analysis-with-Python?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SedarOlmez94/Bayesian-Analysis-with-Python&amp;utm_campaign=Badge_Grade)
+
 # Bayesian Analysis with Python
 
 This is the code repository for [Bayesian Analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python?utm_source=github&utm_medium=repository&utm_campaign=9781785883804), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
